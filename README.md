@@ -1,16 +1,17 @@
-### Hi, I'm Val 👋
+### Val Burkin
 
-Senior software engineer in Ohio. I build distributed backend systems (API platforms, document-processing pipelines, cloud migrations), mostly in C#, .NET and Azure. Lately I build open-source tools for **health data** and **genomics**. MCS, University of Illinois Urbana-Champaign.
+**Software Engineer** · distributed systems & platform architecture · LLM agents & RAG
 
-#### Selected work
+I take products from idea to production: vision and MVP scope, architecture, delivery and operations. 13 years of software where reliability and compliance are non-negotiable (insurance, healthcare data, document processing), after starting on the business side.
 
-- **[DeidSharp](https://github.com/valburkin/DeidSharp)**: de-identification of health data for .NET. Removes identifiers from clinical notes and FHIR R4 resources under HIPAA Safe Harbor, stacking pattern, gazetteer, clinical NER and local LLM detectors, and fails closed. On [NuGet](https://www.nuget.org/packages/DeidSharp).
-- **[GenLabs.DnaUtils](https://github.com/valburkin/GenLabs.DnaUtils)**: genomic sequence analysis for .NET: k-mers, GC skew, approximate matching and motif search, tested against published datasets. Locates the origin of replication in *E. coli* using genomes from [GenLabs.Genome](https://github.com/valburkin/GenLabs.Genome).
+#### Products I've led
 
-#### Stack
+- **[DeidSharp](https://github.com/valburkin/DeidSharp)**: open-source de-identification of health data for .NET. Catches about 99% of identifiers on ICU nursing notes; 1.0 on [NuGet](https://www.nuget.org/packages/DeidSharp).
+- **[Seegnals](https://seegnals.ru/)**: AI trend intelligence for consumer brands. I owned engineering end to end, from trend detection to a multi-agent LLM pipeline with RAG.
+- **[IoT Lessons](https://iotlessons.com)**: an interactive electronics school for iOS, Android and the web, taken from idea to launch-ready.
 
-C# · .NET · ASP.NET Core · Azure · Kubernetes · Docker · SQL Server · PostgreSQL · gRPC · Python
+#### Background
 
-#### Elsewhere
+MCS, University of Illinois Urbana-Champaign · Tau Beta Pi · [Paper on requirements engineering](https://arxiv.org/abs/2305.05800) (arXiv, 2023)
 
 [burk.in](https://burk.in) · [LinkedIn](https://www.linkedin.com/in/valburkin)
