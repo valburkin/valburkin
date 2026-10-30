@@ -13,4 +13,4 @@ C# · .NET · ASP.NET Core · Azure · Kubernetes · Docker · SQL Server · Pos
 
 #### Elsewhere
 
-[burk.in](https://burk.in) · [LinkedIn](https://www.linkedin.com/in/valentinburk)
+[burk.in](https://burk.in) · [LinkedIn](https://www.linkedin.com/in/valburkin)
