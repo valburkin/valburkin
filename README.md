@@ -13,6 +13,6 @@ I take products from idea to production: vision and MVP scope, architecture, del
 
 #### Background
 
-MCS, University of Illinois Urbana-Champaign · Tau Beta Pi · [Paper on requirements engineering](https://arxiv.org/abs/2305.05800) (arXiv, 2023)
+MCS, University of Illinois Urbana-Champaign · Tau Beta Pi · Papers on [clinical text de-identification](https://arxiv.org/abs/2611.12709) (arXiv, 2026) and [requirements engineering](https://arxiv.org/abs/2305.05800) (arXiv, 2023)
 
 [burk.in](https://burk.in) · [LinkedIn](https://www.linkedin.com/in/valburkin)
